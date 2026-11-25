@@ -1,0 +1,9 @@
+check_name,value,note
+Rows,41188,"Matches the published 41,188"
+Exact duplicate rows,12,"Kept: identical records can be genuine (same profile, same day)"
+Unknown credit default,8597,"21% of rows: treat as its own category, not as ""no"""
+Unknown education,1731,
+Unknown job,330,
+Previously contacted but pdays = 999,4110,"pdays 999 should mean ""never contacted"": inconsistent with previous > 0"
+Zero-second calls,4,"All ""no"": call never connected"
+Years inferred,3,May 2008 to November 2010

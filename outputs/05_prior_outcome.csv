@@ -1,0 +1,10 @@
+campaign_year,prior_outcome,clients,conversion_pct,lift_vs_new_prospects
+2008,New prospect,26956,4.9,1.0
+2008,Said no before,699,3.4,0.71
+2008,Said yes before,35,8.6,1.76
+2009,New prospect,7764,18.7,1.0
+2009,Said no before,2986,12.9,0.69
+2009,Said yes before,690,56.8,3.04
+2010,New prospect,843,44.8,1.0
+2010,Said no before,567,34.6,0.77
+2010,Said yes before,648,77.0,1.72
